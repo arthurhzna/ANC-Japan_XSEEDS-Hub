@@ -1,0 +1,192 @@
+{
+  "kotoba": [
+    {
+      "hiragana": "どうぐ",
+      "kanji": "道具",
+      "romaji": "dougu",
+      "arti": "alat"
+    },
+    {
+      "hiragana": "げんご",
+      "kanji": "言語",
+      "romaji": "gengo",
+      "arti": "bahasa"
+    },
+    {
+      "hiragana": "わたし",
+      "kanji": "私",
+      "romaji": "watashi",
+      "arti": "saya"
+    },
+    {
+      "hiragana": "はし",
+      "kanji": "箸",
+      "romaji": "hashi",
+      "arti": "sumpit"
+    },
+    {
+      "hiragana": "ごはん",
+      "kanji": "ご飯",
+      "romaji": "gohan",
+      "arti": "nasi / makanan"
+    },
+    {
+      "hiragana": "かみ",
+      "kanji": "紙",
+      "romaji": "kami",
+      "arti": "kertas"
+    },
+    {
+      "hiragana": "なん",
+      "kanji": "何",
+      "romaji": "nan",
+      "arti": "apa"
+    },
+    {
+      "hiragana": "すし",
+      "kanji": "寿司",
+      "romaji": "sushi",
+      "arti": "sushi"
+    },
+    {
+      "hiragana": "てがみ",
+      "kanji": "手紙",
+      "romaji": "tegami",
+      "arti": "surat"
+    },
+    {
+      "hiragana": "にほんご",
+      "kanji": "日本語",
+      "romaji": "nihongo",
+      "arti": "bahasa Jepang"
+    },
+    {
+      "hiragana": "ちゅうごくご",
+      "kanji": "中国語",
+      "romaji": "chuugokugo",
+      "arti": "bahasa Mandarin"
+    },
+    {
+      "hiragana": "えいご",
+      "kanji": "英語",
+      "romaji": "eigo",
+      "arti": "bahasa Inggris"
+    },
+    {
+      "hiragana": "かのじょ",
+      "kanji": "彼女",
+      "romaji": "kanojo",
+      "arti": "dia (perempuan)"
+    },
+    {
+      "hiragana": "はな",
+      "kanji": "花",
+      "romaji": "hana",
+      "arti": "bunga"
+    },
+    {
+      "hiragana": "かれし",
+      "kanji": "彼氏",
+      "romaji": "kareshi",
+      "arti": "pacar laki-laki"
+    },
+    {
+      "hiragana": "とけい",
+      "kanji": "時計",
+      "romaji": "tokei",
+      "arti": "jam"
+    },
+    {
+      "hiragana": "おさけ",
+      "kanji": "お酒",
+      "romaji": "osake",
+      "arti": "sake"
+    },
+    {
+      "hiragana": "もう",
+      "kanji": "もう",
+      "romaji": "mou",
+      "arti": "sudah"
+    },
+    {
+      "hiragana": "まだ",
+      "kanji": "まだ",
+      "romaji": "mada",
+      "arti": "belum"
+    },
+    {
+      "hiragana": "らーめん",
+      "kanji": "ラーメン",
+      "romaji": "raamen",
+      "arti": "ramen"
+    },
+    {
+      "hiragana": "ぼーるぺん",
+      "kanji": "ボールペン",
+      "romaji": "boorupen",
+      "arti": "bolpoin"
+    },
+    {
+      "hiragana": "ぷれぜんと",
+      "kanji": "プレゼント",
+      "romaji": "purezento",
+      "arti": "hadiah"
+    },
+    {
+      "hiragana": "のーと",
+      "kanji": "ノート",
+      "romaji": "nooto",
+      "arti": "buku catatan"
+    }
+  ],
+  "kata_kerja": [
+    {
+      "hiragana": "たべます",
+      "kanji": "食べます",
+      "romaji": "tabemasu",
+      "arti": "makan"
+    },
+    {
+      "hiragana": "きります",
+      "kanji": "切ります",
+      "romaji": "kirimasu",
+      "arti": "memotong"
+    },
+    {
+      "hiragana": "かきます",
+      "kanji": "書きます",
+      "romaji": "kakimasu",
+      "arti": "menulis"
+    },
+    {
+      "hiragana": "あげます",
+      "kanji": "あげます",
+      "romaji": "agemasu",
+      "arti": "memberikan"
+    },
+    {
+      "hiragana": "もらいます",
+      "kanji": "もらいます",
+      "romaji": "moraimasu",
+      "arti": "menerima"
+    },
+    {
+      "hiragana": "かします",
+      "kanji": "貸します",
+      "romaji": "kashimasu",
+      "arti": "meminjamkan"
+    },
+    {
+      "hiragana": "かります",
+      "kanji": "借ります",
+      "romaji": "karimasu",
+      "arti": "meminjam"
+    },
+    {
+      "hiragana": "のみます",
+      "kanji": "飲みます",
+      "romaji": "nomimasu",
+      "arti": "minum"
+    }
+  ]
+}
