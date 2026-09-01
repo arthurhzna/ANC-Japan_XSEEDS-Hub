@@ -15,6 +15,7 @@ Tidak terlalu suka
 **嫌いです — kirai desu**  
 Tidak suka / benci
 
+
 ## Tingkat Pemahaman
 
 **よくわかります — yoku wakarimasu**  
@@ -33,17 +34,23 @@ Tidak terlalu mengerti
 Sama sekali tidak mengerti
 
 
-Tapi に (ni) juga bisa dipakai dengan 行きます. Bedanya tipis:
+## Partikel へ dan に untuk Menunjukkan Tujuan
 
-学校へ行きます。
-がっこうへ いきます。
-Gakkou e ikimasu.
-→ Pergi ke sekolah.
-学校に行きます。
-がっこうに いきます。
-Gakkou ni ikimasu.
-→ Pergi ke sekolah.
-Bedanya secara sederhana
+Keduanya dapat digunakan dengan **行きます (ikimasu)** untuk menunjukkan tempat yang dituju.
 
-へ → menekankan arah/tujuan
-に → menekankan tujuan yang dituju
+**学校へ行きます。**  
+がっこうへ いきます。  
+Gakkou e ikimasu.  
+→ Pergi ke sekolah.
+
+**学校に行きます。**  
+がっこうに いきます。  
+Gakkou ni ikimasu.  
+→ Pergi ke sekolah.
+
+
+### Perbedaan secara sederhana
+
+**へ (e)** → menekankan **arah / tujuan**
+
+**に (ni)** → menekankan **tempat tujuan yang dituju**
