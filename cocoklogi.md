@@ -9,7 +9,7 @@
 ## Hiragana
 
 - おおきい (ookii) → dibaca `ookii`.
-- おう (ou) → dibaca `ou` → pengucapannya seperti `oo` / `ō`.
+- おう (ou) → dibaca `ou` → pengucapannya seperti `oo` / `ō`.    
   - おはよう (ohayou) → `ohayoo` / `ohayō`
   - こうえん (kouen) → `kooen` / `kōen` (taman)
 - えい (ei) → dibaca `ei` → pengucapannya seperti `ee` / `ē`.
