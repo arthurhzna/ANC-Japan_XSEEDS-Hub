@@ -27,7 +27,7 @@ mu jadi ma　む　ーー＞　ま
 
 
 ![alt text](image-6.png)
-
+![alt text](image-9.png)
 
 ない　ーー＞　なければないません　
 ![alt text](image-7.png)
