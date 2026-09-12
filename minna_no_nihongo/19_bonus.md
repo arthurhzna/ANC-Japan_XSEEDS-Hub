@@ -28,3 +28,26 @@ Pengalaman → bentuk た
 ![alt text](image-14.png)
 
 ![alt text](image-15.png)
+
+Bentuk	Arti
+あります (arimasu)	ada / pernah*
+ありません (arimasen)	tidak ada / tidak pernah*
+ありました (arimashita)	ada (lampau)
+ありませんでした (arimasen deshita)	tidak ada (lampau)
+
+Untuk pengalaman:
+
+Vた + ことがあります = pernah
+Vた + ことがありません = tidak pernah
+
+⚠️ Di pola pengalaman, jangan ubah あります → ありました.
+
+Contoh:
+
+行ったことがあります。
+Itta koto ga arimasu.
+= Pernah pergi.
+
+行ったことがありません。
+Itta koto ga arimasen.
+= Tidak pernah pergi.
