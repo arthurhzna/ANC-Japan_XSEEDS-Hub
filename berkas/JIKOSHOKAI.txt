@@ -1,0 +1,100 @@
+Romaji
+
+Honjitsu wa ojikan o itadaki, arigatou gozaimasu.
+
+Hajimemashite. Aasaa Hozanna to moushimasu. Aasaa to yonde kudasai.
+
+Indoneshia no Hasanuddin Daigaku de, denki kougaku o benkyou shi, ni-sen nijuu-yon-nen ni sotsugyou shimashita.
+
+Ima wa bakkuendo enjinia to shite, ni-nen ijou hataraite imasu. Omo ni Go to Paison o tsukatte imasu.
+
+Zenshoku de wa, Indoneshia, Shingapooru, Nihon, Higashi Chimooru no yon-kakoku de ugoku yonjuugo-dai ijou no ejji debaisu no bakkuendo o tantou shimashita.
+
+Toku ni ookina seika wa, Paison kara Go e no ikou desu. Omoi AI shori ga hairu to, API ga tomatte shimau mondai ga arimashita. Soko de, Go to Redisu no kyuu de hidouki shori ni kirikae, juugo ijou no AI moderu o douji ni antei shite ugokaseru you ni shimashita.
+
+Genzai wa BRI Ginkou de, Go to Kafuka o tsukatta ibento kudou-gata no maikurosaabisu o kaihatsu shite imasu.
+
+Ginkou de wa, hitotsu no torihiki ga ikutsu mo no saabisu o toorimasu.
+
+Sono tame, Aaru-Aaru-Enu o tsukatte, torihiki o saisho kara saigo made tsuiseki dekiru you ni shite imasu.
+
+Mata, Oo-oosu tsuu ten zero de hogo sareta ginkou no Ii-Esu-Bii to no renkei mo tantou shite imasu.
+
+Kono keiken kara, anzen de shinrai dekiru shisutemu o tsukuru koto no taisetsusa o manabimashita.
+
+Mata, Guuguru nado ga shusai suru Bangkitto Akademii de juuni-mei no gakusei o shidou shi, sono uchi hitotsu no chiimu ga saiyuushuu chiimu shou o jushou shimashita.
+
+Nihon no monozukuri bunka ya, shinraisei no takai shisutemu o taisetsu ni suru kangaekata ni miryoku o kanjite imasu. Kono you na kankyou de, enjinia to shite seichou shitai to omoimashita.
+
+Onsha no bakkuendo enjinia no shigoto wa, watashi no keiken ni atte iru to kangaete imasu. Kore made no keiken o ikashite, onsha no shisutemu o sasaeru enjinia to shite kouken shitai desu.
+
+Yoroshiku onegai itashimasu.
+
+
+
+Bahasa Jepang (Kanji, Hiragana, Katakana)
+
+本日はお時間をいただき、ありがとうございます。
+
+はじめまして。アーサー・ホザンナと申します。アーサーと呼んでください。
+
+インドネシアのハサヌディン大学で電気工学を勉強し、2024年に卒業しました。
+
+今はバックエンドエンジニアとして、2年以上働いています。主にGoとPythonを使っています。
+
+前職では、インドネシア、シンガポール、日本、東ティモールの4か国で動く45台以上のエッジデバイスのバックエンドを担当しました。
+
+特に大きな成果は、PythonからGoへの移行です。重いAI処理が入ると、APIが止まってしまう問題がありました。そこで、GoとRedisのキューで非同期処理に切り替え、15以上のAIモデルを同時に安定して動かせるようにしました。
+
+現在はBRI銀行で、GoとKafkaを使ったイベント駆動型のマイクロサービスを開発しています。
+
+銀行では、一つの取引がいくつものサービスを通ります。
+
+そのため、RRNを使って、取引を最初から最後まで追跡できるようにしています。
+
+また、OAuth 2.0で保護された銀行のESBとの連携も担当しています。
+
+この経験から、安全で信頼できるシステムを作ることの大切さを学びました。
+
+また、Googleなどが主催するBangkit Academyで12名の学生を指導し、そのうち1チームが最優秀チーム賞を受賞しました。
+
+日本のものづくり文化や、信頼性の高いシステムを大切にする考え方に魅力を感じています。このような環境で、エンジニアとして成長したいと思いました。
+
+御社のバックエンドエンジニアの仕事は、私の経験に合っていると考えています。これまでの経験を活かして、御社のシステムを支えるエンジニアとして貢献したいです。
+
+よろしくお願いいたします。
+
+
+
+
+Bahasa Indonesia
+
+Terima kasih telah meluangkan waktu untuk saya hari ini.
+
+Perkenalkan, nama saya Arthur Hozanna. Silakan panggil saya Arthur.
+
+Saya belajar Teknik Elektro di Universitas Hasanuddin, Indonesia, dan lulus pada tahun 2024.
+
+Sekarang saya sudah bekerja sebagai backend engineer selama lebih dari 2 tahun, terutama menggunakan Go dan Python.
+
+Di kantor sebelumnya, saya menangani backend untuk lebih dari 45 edge device di 4 negara, yaitu Indonesia, Singapura, Jepang, dan Timor Leste.
+
+Pencapaian terbesar saya adalah migrasi dari Python ke Go. Dulu API sering macet saat ada proses AI yang berat. Saya mengubahnya menjadi asynchronous dengan Go dan Redis queue, sehingga lebih dari 15 model AI bisa berjalan bersamaan dengan stabil.
+
+Saat ini saya bekerja di Bank BRI, mengembangkan microservice event-driven menggunakan Go dan Kafka.
+
+Di bank, satu transaksi melewati banyak service.
+
+Karena itu, saya menggunakan RRN agar transaksi bisa dilacak dari awal sampai akhir.
+
+Saya juga menangani integrasi dengan ESB bank yang diamankan dengan OAuth 2.0.
+
+Dari pengalaman ini, saya belajar pentingnya membangun sistem yang aman dan dapat diandalkan.
+
+Selain itu, saya membimbing 12 mahasiswa di Bangkit Academy yang diselenggarakan oleh Google dan lainnya, dan salah satu tim meraih penghargaan tim terbaik.
+
+Saya tertarik pada budaya monozukuri Jepang dan cara berpikir yang sangat mengutamakan sistem yang andal. Karena itu, saya ingin berkembang sebagai engineer di lingkungan seperti ini.
+
+Saya merasa pekerjaan backend engineer di perusahaan Anda sesuai dengan pengalaman saya. Saya ingin memanfaatkan pengalaman saya untuk berkontribusi sebagai engineer yang menopang sistem perusahaan Anda.
+
+Mohon kerja samanya.
