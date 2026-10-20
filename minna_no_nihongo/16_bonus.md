@@ -54,7 +54,7 @@
 
 # Kosakata dan Ekspresi
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ### 身体・人の特徴
 

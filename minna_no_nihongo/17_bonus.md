@@ -6,8 +6,8 @@ Kata kerja	食べます	食べない
 Tapi hati-hati: ini mencampur gaya biasa (ない) dan gaya sopan (じゃありません). Kalau kamu sedang belajar bentuk ～ない, biasanya kata kerja dan kata sifat juga punya aturan khusus untuk bentuk negatifnya.
 
 
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](images/image-4.png)
+![alt text](images/image-5.png)
 
 
 む → まない → 読む → 読まない
@@ -26,11 +26,11 @@ Golongan 1 + ない = pindahkan ujungnya ke baris あ + ない
 mu jadi ma　む　ーー＞　ま
 
 
-![alt text](image-6.png)
-![alt text](image-9.png)
+![alt text](images/image-6.png)
+![alt text](images/image-9.png)
 
 ない　ーー＞　なければないません　
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 ない　ーー＞　なくてもいいです
-![alt text](image-8.png)
+![alt text](images/image-8.png)

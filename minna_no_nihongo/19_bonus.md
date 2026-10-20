@@ -1,6 +1,6 @@
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
 V bentuk た + ことがあります
 = pernah melakukan V
@@ -25,9 +25,9 @@ Kuncinya:
 Kemampuan → bentuk kamus
 Pengalaman → bentuk た
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
-![alt text](image-15.png)
+![alt text](images/image-15.png)
 
 Bentuk	Arti
 あります (arimasu)	ada / pernah*
